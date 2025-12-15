@@ -28,3 +28,4 @@
  ⚠️ Disclaimer
 This project is created for learning and analytical demonstration purposes only.  
 The insights are based on sample data and should not be interpreted as medical or clinical advice.
+This dataset is synthetic and was generated for educational purposes, making it ideal for data science and machine learning projects.
